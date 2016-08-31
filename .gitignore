@@ -1,3 +1,5 @@
 /calculator.xcodeproj
 /calculator.xcodeproj/*
 *.DS_Store
+*.o
+/calculator/result
